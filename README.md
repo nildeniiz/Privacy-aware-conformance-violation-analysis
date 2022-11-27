@@ -8,3 +8,4 @@ Conformance_violation_analysis_5pair.py , 3pairs and 1pair will generate the res
 
 In order to compare it with the event log sanitization method, respective pyton files can be run with entering the respective n (top_variants_filter) value that achieves the desired k-anonymity privacy level in the "Event log sanitization approach" file.
 
+The detected conformance violations are available in Traffic Fine.xlsx Coselog.xlsx and Sepsis.xlsx files.
