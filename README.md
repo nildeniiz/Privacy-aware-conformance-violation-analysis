@@ -1,6 +1,6 @@
 # Privacy-aware-conformance-violation-analysis
 
-This repository contains the algorithm developed to analyze conformance violations with precedent and succedent events in a privacy aware way using a result sanitization approach which is explained in the master thesis: Privacy Aware Process Mining Approach to Reduce Loss of Information in the Analysis of Conformance Violations.
+This repository contains the algorithm developed to analyze conformance violations with precedent and succedent events in a privacy aware way using a result sanitization approach which is explained in the master thesis: Privacy Aware Conformance Violation Analysis.
 
 The input data is available in the input.zip. The XES formatted event logs and pnml files are in the folder but pnml file can also be generated with generatepnml.py
 
